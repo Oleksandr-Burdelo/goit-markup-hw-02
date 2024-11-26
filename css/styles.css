@@ -20,6 +20,9 @@ li {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.menu-buttons:focus {
+  color: #404bbf;
+}
 .menu-buttons:hover {
   color: #404bbf;
 }
