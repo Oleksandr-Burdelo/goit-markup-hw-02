@@ -87,3 +87,12 @@ li {
   font-size: 36px;
   line-height: 40px;
 }
+.address {
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.address:focus {
+  color: #404bbf;
+}
