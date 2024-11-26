@@ -34,10 +34,7 @@ li {
   text-decoration: none;
   color: #434455;
 }
-.menu-contacts:active {
-  color: #404bbf;
-}
-.menu-contacts:hover {
+.menu-contacts:focus {
   color: #404bbf;
 }
 .main-background {
