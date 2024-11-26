@@ -9,8 +9,15 @@ li {
 .order-service {
   background-color: #4d5ae5;
   cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
 .order-service:hover {
+  background-color: #404bbf;
+}
+.order-service:focus {
   background-color: #404bbf;
 }
 .menu-buttons {
