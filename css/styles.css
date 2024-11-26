@@ -37,6 +37,12 @@ li {
 .menu-contacts:focus {
   color: #404bbf;
 }
+.menu-contacts:active {
+  color: #404bbf;
+}
+.menu-contacts:hover {
+  color: #404bbf;
+}
 .main-background {
   text-align: center;
   color: #ffffff;
