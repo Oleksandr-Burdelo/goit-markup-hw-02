@@ -9,8 +9,6 @@ li {
 .order-service {
   background-color: #4d5ae5;
   cursor: pointer;
-  width: 169px;
-  height: 56px;
 }
 .order-service:hover {
   background-color: #404bbf;
@@ -34,8 +32,6 @@ li {
   color: #404bbf;
 }
 .main-background {
-  width: 1440px;
-  height: 600px;
   text-align: center;
   color: #ffffff;
   background-color: #2e2f42;
@@ -76,13 +72,9 @@ li {
 }
 .footer {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
 }
 .our-team {
   background-color: #f4f4fd;
-  width: 1440px;
-  height: 732px;
 }
 .our-team h2 {
   text-align: center;
