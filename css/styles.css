@@ -95,10 +95,13 @@ li {
 }
 .address:focus {
   color: #404bbf;
+  color: #434455;
 }
 .address:hover {
   color: #404bbf;
+  color: #434455;
 }
 .address:active {
   color: #404bbf;
+  color: #434455;
 }
