@@ -96,3 +96,6 @@ li {
 .address:focus {
   color: #404bbf;
 }
+.address:active {
+  color: #404bbf;
+}
