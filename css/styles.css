@@ -8,11 +8,13 @@ li {
 }
 .order-service {
   background-color: #4d5ae5;
+  color: #ffffff;
+  font-family: inherit;
   cursor: pointer;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff;
 }
 .order-service:hover {
   background-color: #404bbf;
@@ -50,15 +52,15 @@ li {
 .menu-contacts:hover {
   color: #404bbf;
 }
-.main-background {
-  text-align: center;
-  color: #ffffff;
+.first-section {
   background-color: #2e2f42;
 }
-.main-background h1 {
-  letter-spacing: 0.02em;
-  line-height: 1.07;
+.first-h1 {
+  color: #ffffff;
+  text-align: center;
   font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 .logo span {
   text-transform: uppercase;
