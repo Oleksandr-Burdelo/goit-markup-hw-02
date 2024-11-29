@@ -7,13 +7,13 @@ li {
   list-style-type: none;
 }
 .order-service {
-  font-size: 16px;
   background-color: #4d5ae5;
-  cursor: pointer;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  
 }
 .order-service:hover {
   background-color: #404bbf;
