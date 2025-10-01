@@ -29,7 +29,8 @@ li {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.features h3 {
+/* Заголовки h3 второй секции */
+section:nth-of-type(2) h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -37,7 +38,8 @@ li {
   color: #2e2f42;
 }
 
-.features p {
+/* Тексты p второй секции */
+section:nth-of-type(2) p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
