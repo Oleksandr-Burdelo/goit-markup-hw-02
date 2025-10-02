@@ -127,7 +127,10 @@ li {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.li-three-section {
+.ul-three-section {
+  background-color: #FFFFFF;
+}
+.li-three-first {
   background-color: #FFFFFF;
 }
 .our-team {
